@@ -1,0 +1,59 @@
+2020-04-20 17:04:815 INFO  HomePage :28 - Clicking on account menu : By.id: header-account-menu
+2020-04-20 17:04:592 INFO  AccountPage :22 - Clicking On SignIn Button : By.id: header-account-signin-button
+2020-04-20 17:04:226 INFO  SignInPage :24 - Entering email : abc@gmail.com On email address field : By.id: gss-signin-email
+2020-04-20 17:04:91 INFO  SignInPage :30 - Entering password : abc123 On password field : By.id: gss-signin-password
+2020-04-20 17:04:607 INFO  SignInPage :36 - Clicking on sign in button : By.id: gss-signin-submit
+2020-04-20 17:04:608 INFO  SignInPage :41 - Getting text from error message : By.id: gss-signin-incorrect-email-or-password
+2020-04-20 17:04:828 INFO  HomePage :28 - Clicking on account menu : By.id: header-account-menu
+2020-04-20 17:04:194 INFO  AccountPage :22 - Clicking On SignIn Button : By.id: header-account-signin-button
+2020-04-20 17:04:382 INFO  SignInPage :24 - Entering email : abc@gmail.com On email address field : By.id: gss-signin-email
+2020-04-20 17:04:747 INFO  SignInPage :30 - Entering password : abc123 On password field : By.id: gss-signin-password
+2020-04-20 17:04:03 INFO  SignInPage :36 - Clicking on sign in button : By.id: gss-signin-submit
+2020-04-20 17:04:04 INFO  SignInPage :41 - Getting text from error message : By.id: gss-signin-incorrect-email-or-password
+2020-04-20 17:04:01 INFO  HomePage :22 - Clicking on flights tab : By.xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']
+2020-04-20 17:04:986 INFO  FlightsPage :27 - Entering flying from : London (LHR-Heathrow) On flying from field : By.id: flight-origin-hp-flight
+2020-04-20 17:04:544 INFO  FlightsPage :33 - Entering going to : Mumbai (BOM-Chhatrapati Shivaji Intl.) On going to field : By.id: flight-destination-hp-flight
+2020-04-20 17:04:464 INFO  FlightsPage :39 - Entering departing date : 25/04/2020 On departing date field : By.id: flight-departing-hp-flight
+2020-04-20 17:04:769 INFO  FlightsPage :47 - Entering returning date : 23/05/2020 On returning date field : By.id: flight-returning-hp-flight
+2020-04-20 17:04:817 INFO  FlightsPage :53 - Clicking on search button : By.xpath: //*[@id="gcw-flights-form-hp-flight"]/div[9]/label/button
+2020-04-20 17:04:818 INFO  ResultPage :20 - Getting text from : By.xpath: //*[@id="titleBar"]/h1/div/span[1]
+2020-04-20 17:04:273 INFO  HomePage :22 - Clicking on flights tab : By.xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']
+2020-04-20 17:04:405 INFO  FlightsPage :27 - Entering flying from : London (LHR-Heathrow) On flying from field : By.id: flight-origin-hp-flight
+2020-04-20 17:04:578 INFO  FlightsPage :33 - Entering going to : Mumbai (BOM-Chhatrapati Shivaji Intl.) On going to field : By.id: flight-destination-hp-flight
+2020-04-20 17:04:352 INFO  FlightsPage :39 - Entering departing date : 25/04/2020 On departing date field : By.id: flight-departing-hp-flight
+2020-04-20 17:04:442 INFO  FlightsPage :47 - Entering returning date : 23/05/2020 On returning date field : By.id: flight-returning-hp-flight
+2020-04-20 17:04:214 INFO  FlightsPage :53 - Clicking on search button : By.xpath: //*[@id="gcw-flights-form-hp-flight"]/div[9]/label/button
+2020-04-20 17:04:215 INFO  ResultPage :20 - Getting text from : By.xpath: //*[@id="titleBar"]/h1/div/span[1]
+2020-04-21 23:04:23 INFO  HomePage :28 - Clicking on account menu : By.id: header-account-menu
+2020-04-21 23:04:607 INFO  AccountPage :22 - Clicking On SignIn Button : By.id: header-account-signin-button
+2020-04-21 23:04:847 INFO  SignInPage :24 - Entering email : abc@gmail.com On email address field : By.id: gss-signin-email
+2020-04-21 23:04:400 INFO  SignInPage :30 - Entering password : abc123 On password field : By.id: gss-signin-password
+2020-04-21 23:04:751 INFO  SignInPage :36 - Clicking on sign in button : By.id: gss-signin-submit
+2020-04-21 23:04:752 INFO  SignInPage :41 - Getting text from error message : By.id: gss-signin-incorrect-email-or-password
+2020-04-21 23:04:46 INFO  HomePage :28 - Clicking on account menu : By.id: header-account-menu
+2020-04-21 23:04:480 INFO  AccountPage :22 - Clicking On SignIn Button : By.id: header-account-signin-button
+2020-04-21 23:04:593 INFO  SignInPage :24 - Entering email : abc@gmail.com On email address field : By.id: gss-signin-email
+2020-04-21 23:04:493 INFO  SignInPage :30 - Entering password : abc123 On password field : By.id: gss-signin-password
+2020-04-21 23:04:842 INFO  SignInPage :36 - Clicking on sign in button : By.id: gss-signin-submit
+2020-04-21 23:04:844 INFO  SignInPage :41 - Getting text from error message : By.id: gss-signin-incorrect-email-or-password
+2020-04-21 23:04:299 INFO  HomePage :22 - Clicking on flights tab : By.xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']
+2020-04-21 23:04:376 INFO  FlightsPage :27 - Entering flying from : London (LHR-Heathrow) On flying from field : By.id: flight-origin-hp-flight
+2020-04-21 23:04:765 INFO  FlightsPage :33 - Entering going to : Mumbai (BOM-Chhatrapati Shivaji Intl.) On going to field : By.id: flight-destination-hp-flight
+2020-04-21 23:04:774 INFO  FlightsPage :39 - Entering departing date : 25/04/2020 On departing date field : By.id: flight-departing-hp-flight
+2020-04-21 23:04:56 INFO  FlightsPage :47 - Entering returning date : 23/05/2020 On returning date field : By.id: flight-returning-hp-flight
+2020-04-21 23:04:02 INFO  FlightsPage :53 - Clicking on search button : By.xpath: //*[@id="gcw-flights-form-hp-flight"]/div[9]/label/button
+2020-04-21 23:04:04 INFO  ResultPage :20 - Getting text from : By.xpath: //*[@id="titleBar"]/h1/div/span[1]
+2020-04-21 23:04:899 INFO  HomePage :22 - Clicking on flights tab : By.xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']
+2020-04-21 23:04:922 INFO  FlightsPage :27 - Entering flying from : London (LHR-Heathrow) On flying from field : By.id: flight-origin-hp-flight
+2020-04-21 23:04:254 INFO  FlightsPage :33 - Entering going to : Mumbai (BOM-Chhatrapati Shivaji Intl.) On going to field : By.id: flight-destination-hp-flight
+2020-04-21 23:04:13 INFO  FlightsPage :39 - Entering departing date : 25/04/2020 On departing date field : By.id: flight-departing-hp-flight
+2020-04-21 23:04:904 INFO  FlightsPage :47 - Entering returning date : 23/05/2020 On returning date field : By.id: flight-returning-hp-flight
+2020-04-21 23:04:460 INFO  FlightsPage :53 - Clicking on search button : By.xpath: //*[@id="gcw-flights-form-hp-flight"]/div[9]/label/button
+2020-04-21 23:04:461 INFO  ResultPage :20 - Getting text from : By.xpath: //*[@id="titleBar"]/h1/div/span[1]
+2020-04-22 00:04:474 INFO  HomePage :22 - Clicking on flights tab : By.xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']
+2020-04-22 00:04:593 INFO  FlightsPage :27 - Entering flying from : London (LHR-Heathrow) On flying from field : By.id: flight-origin-hp-flight
+2020-04-22 00:04:784 INFO  FlightsPage :33 - Entering going to : Mumbai (BOM-Chhatrapati Shivaji Intl.) On going to field : By.id: flight-destination-hp-flight
+2020-04-22 00:04:562 INFO  FlightsPage :39 - Entering departing date : 25/04/2020 On departing date field : By.id: flight-departing-hp-flight
+2020-04-22 00:04:582 INFO  FlightsPage :47 - Entering returning date : 23/05/2020 On returning date field : By.id: flight-returning-hp-flight
+2020-04-22 00:04:901 INFO  FlightsPage :53 - Clicking on search button : By.xpath: //*[@id="gcw-flights-form-hp-flight"]/div[9]/label/button
+2020-04-22 00:04:902 INFO  ResultPage :20 - Getting text from : By.xpath: //*[@id="titleBar"]/h1/div/span[1]

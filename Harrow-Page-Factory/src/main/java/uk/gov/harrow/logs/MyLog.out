@@ -1,0 +1,43 @@
+2020-04-21 11:04:161 INFO       HomePage :21 - Clicking on service ButtonBy.xpath: //span[@class='button__text'][contains(text(),'Services')]
+2020-04-21 11:04:318 INFO       MainMenuPage :19 - Clicking on Main menBy.xpath: //a[contains(text(),'Benefits')]
+2020-04-21 11:04:540 INFO       BenefitsPage :26 - Clicking on apply for housing benefit linkBy.xpath: //h2[contains(text(),'Apply for Housing Benefit')]
+2020-04-21 11:04:18 INFO       BenefitsPage :32 - Clicking on entitlement calc btnBy.xpath: //a[@class='button']
+2020-04-21 11:04:403 INFO       BenefitsPage :38 - Clicking on start ButtonBy.id: StartCalculationBtn
+2020-04-21 11:04:742 INFO       BenefitsPage :44 - Clicking on Mortgage or owned outrightBy.xpath: //div[contains(@class,'wrap-box housing-messages func-crop-buttons multiple-items-wrap')]//label[contains(@class,'ClaimForm.Web.Helpers.CFRadioButtonRenderedOption.4 jcf-label-active')]
+2020-04-21 11:04:336 INFO       BenefitsPage :50 - Entering PostCodeBy.id: Postcode
+2020-04-21 11:04:393 INFO       BenefitsPage :57 - Clicking on next buttonBy.id: nextButton
+2020-04-21 11:04:520 INFO       HomePage :21 - Clicking on service ButtonBy.xpath: //span[@class='button__text'][contains(text(),'Services')]
+2020-04-21 11:04:405 INFO       MainMenuPage :19 - Clicking on Main menBy.xpath: //a[contains(text(),'Benefits')]
+2020-04-21 11:04:622 INFO       BenefitsPage :26 - Clicking on apply for housing benefit linkBy.xpath: //h2[contains(text(),'Apply for Housing Benefit')]
+2020-04-21 11:04:720 INFO       BenefitsPage :32 - Clicking on entitlement calc btnBy.xpath: //a[@class='button']
+2020-04-21 11:04:210 INFO       BenefitsPage :38 - Clicking on start ButtonBy.id: StartCalculationBtn
+2020-04-21 11:04:419 INFO       BenefitsPage :44 - Clicking on Mortgage or owned outrightBy.xpath: //div[contains(@class,'wrap-box housing-messages func-crop-buttons multiple-items-wrap')]//label[contains(@class,'ClaimForm.Web.Helpers.CFRadioButtonRenderedOption.4 jcf-label-active')]
+2020-04-21 11:04:50 INFO       BenefitsPage :50 - Entering PostCodeBy.id: Postcode
+2020-04-21 11:04:482 INFO       BenefitsPage :57 - Clicking on next buttonBy.id: nextButton
+2020-04-21 12:04:964 INFO       HomePage :32 - Clicking on service Button[[ChromeDriver: chrome on WINDOWS (7b907f9a91b6334aa59a1cb7cd43aa36)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-21 12:04:749 INFO       HomePage :32 - Clicking on service Button[[ChromeDriver: chrome on WINDOWS (8fe15a116a3c8ca54f41a961eb71274a)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-21 12:04:384 INFO       MainMenuPage :24 - Clicking on Main men[[ChromeDriver: chrome on WINDOWS (8fe15a116a3c8ca54f41a961eb71274a)] -> xpath: //a[contains(text(),'Benefits')]]
+2020-04-21 12:04:995 INFO       HomePage :32 - Clicking on service Button[[ChromeDriver: chrome on WINDOWS (7502ab9b5fe417824945bdf83790a0fe)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-21 12:04:363 INFO       HomePage :32 - Clicking on service Button[[ChromeDriver: chrome on WINDOWS (23746cae9ece8d66434979ff2e05769b)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-21 12:04:655 INFO       HomePage :32 - Clicking on service Button[[ChromeDriver: chrome on WINDOWS (096050a982d5c249a133ec44153979d7)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-21 14:04:383 INFO       HomePage :32 - Clicking on service Button[[ChromeDriver: chrome on WINDOWS (a54c0e66ec33534f048378c11776e9f2)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-21 14:04:504 INFO       MainMenuPage :25 - Clicking on Main menu[[ChromeDriver: chrome on WINDOWS (a54c0e66ec33534f048378c11776e9f2)] -> xpath: //a[contains(text(),'Benefits')]]
+2020-04-21 14:04:240 INFO       HomePage :32 - Clicking on service Button[[ChromeDriver: chrome on WINDOWS (ea2a54774c859d10bf3f7faeb9ba2e3e)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-21 14:04:544 INFO       MainMenuPage :25 - Clicking on Main menu[[ChromeDriver: chrome on WINDOWS (ea2a54774c859d10bf3f7faeb9ba2e3e)] -> xpath: //a[contains(text(),'Benefits')]]
+2020-04-21 14:04:322 INFO       HomePage :32 - Clicking on service Button[[ChromeDriver: chrome on WINDOWS (d28e18a12d72f9bd3e631317e3f08c3e)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-21 14:04:735 INFO       MainMenuPage :25 - Clicking on Main menu[[ChromeDriver: chrome on WINDOWS (d28e18a12d72f9bd3e631317e3f08c3e)] -> xpath: //a[contains(text(),'Benefits')]]
+2020-04-21 14:04:897 INFO       BenefitsPage :46 - Clicking on apply for housing benefit linkProxy element for: DefaultElementLocator 'By.xpath: //h2[contains(text(),'Apply for Housing Benefit')]'
+2020-04-21 14:04:653 INFO       BenefitsPage :52 - Clicking on entitlement calc btnProxy element for: DefaultElementLocator 'By.xpath: //a[@class='button']'
+2020-04-21 14:04:857 INFO       BenefitsPage :58 - Clicking on start ButtonProxy element for: DefaultElementLocator 'By.id: StartCalculationBtn'
+2020-04-21 14:04:44 INFO       BenefitsPage :64 - Clicking on Mortgage or owned outright[[ChromeDriver: chrome on WINDOWS (d28e18a12d72f9bd3e631317e3f08c3e)] -> xpath: //div[contains(@class,'wrap-box housing-messages func-crop-buttons multiple-items-wrap')]//label[contains(@class,'ClaimForm.Web.Helpers.CFRadioButtonRenderedOption.4 jcf-label-active')]]
+2020-04-21 14:04:445 INFO       BenefitsPage :70 - Entering PostCodeHA0 2SJin postcode field[[ChromeDriver: chrome on WINDOWS (d28e18a12d72f9bd3e631317e3f08c3e)] -> id: Postcode]
+2020-04-21 14:04:524 INFO       BenefitsPage :77 - Clicking on next button[[ChromeDriver: chrome on WINDOWS (d28e18a12d72f9bd3e631317e3f08c3e)] -> id: nextButton]
+2020-04-21 14:04:61 INFO       HomePage :32 - Clicking on service Button[[ChromeDriver: chrome on WINDOWS (6838c2298075ac3f401eaed9a0107555)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-21 14:04:437 INFO       MainMenuPage :25 - Clicking on Main menu[[ChromeDriver: chrome on WINDOWS (6838c2298075ac3f401eaed9a0107555)] -> xpath: //a[contains(text(),'Benefits')]]
+2020-04-21 14:04:358 INFO       BenefitsPage :46 - Clicking on apply for housing benefit linkProxy element for: DefaultElementLocator 'By.xpath: //h2[contains(text(),'Apply for Housing Benefit')]'
+2020-04-21 14:04:490 INFO       BenefitsPage :52 - Clicking on entitlement calc btnProxy element for: DefaultElementLocator 'By.xpath: //a[@class='button']'
+2020-04-21 14:04:671 INFO       BenefitsPage :58 - Clicking on start ButtonProxy element for: DefaultElementLocator 'By.id: StartCalculationBtn'
+2020-04-21 14:04:841 INFO       BenefitsPage :64 - Clicking on Mortgage or owned outright[[ChromeDriver: chrome on WINDOWS (6838c2298075ac3f401eaed9a0107555)] -> xpath: //div[contains(@class,'wrap-box housing-messages func-crop-buttons multiple-items-wrap')]//label[contains(@class,'ClaimForm.Web.Helpers.CFRadioButtonRenderedOption.4 jcf-label-active')]]
+2020-04-21 14:04:244 INFO       BenefitsPage :70 - Entering PostCodeHA0 2SJin postcode field[[ChromeDriver: chrome on WINDOWS (6838c2298075ac3f401eaed9a0107555)] -> id: Postcode]
+2020-04-21 14:04:674 INFO       BenefitsPage :77 - Clicking on next button[[ChromeDriver: chrome on WINDOWS (6838c2298075ac3f401eaed9a0107555)] -> id: nextButton]
+2020-04-22 23:04:81 INFO       HomePage :32 - Clicking on service Button[[ChromeDriver: chrome on WINDOWS (db23451510699a07c78e492c8b36550e)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]

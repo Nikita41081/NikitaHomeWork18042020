@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression]">
+  <test name="Login Test(failed)">
+    <groups>
+      <run>
+        <include name="Regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.demo.nopcommerce.testsuit.LoginTestWithDataProvider">
+        <methods>
+          <include name="verifyUserShouldNavigateToLoginPage"/>
+        </methods>
+      </class> <!-- com.demo.nopcommerce.testsuit.LoginTestWithDataProvider -->
+      <class name="com.demo.nopcommerce.testsuit.ComputersTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.demo.nopcommerce.testsuit.ComputersTest -->
+      <class name="com.demo.nopcommerce.testsuit.RegisterTestWithDataProvider">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.demo.nopcommerce.testsuit.RegisterTestWithDataProvider -->
+    </classes>
+  </test> <!-- Login Test(failed) -->
+  <test name="Register Test(failed)">
+    <groups>
+      <run>
+        <include name="Regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.demo.nopcommerce.testsuit.ComputersTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.demo.nopcommerce.testsuit.ComputersTest -->
+      <class name="com.demo.nopcommerce.testsuit.RegisterTestWithDataProvider">
+        <methods>
+          <include name="verifyUserShouldRegisterSuccessfully"/>
+          <include name="openBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.demo.nopcommerce.testsuit.RegisterTestWithDataProvider -->
+    </classes>
+  </test> <!-- Register Test(failed) -->
+  <test name="Computer Test(failed)">
+    <groups>
+      <run>
+        <include name="Regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.demo.nopcommerce.testsuit.ComputersTest">
+        <methods>
+          <include name="verifyUserCanAddToShoppingCart"/>
+          <include name="openBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.demo.nopcommerce.testsuit.ComputersTest -->
+      <class name="com.demo.nopcommerce.testsuit.RegisterTestWithDataProvider">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.demo.nopcommerce.testsuit.RegisterTestWithDataProvider -->
+    </classes>
+  </test> <!-- Computer Test(failed) -->
+</suite> <!-- Failed suite [Regression] -->

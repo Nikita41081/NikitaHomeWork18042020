@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<head>
+  <title>Test Results Report - BankTest</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="TestNG unit test results." />
+  <link href="reportng.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="reportng.js"></script>
+</head>
+<body>
+<h1>BankTest</h1>
+<p>
+  Test duration: 168.470s
+</p>
+
+
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header failed">Failed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">com.bank.testsuit.BankTest</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  customerShouldWithdrawMoneySuccessfully
+      </td>
+  <td class="duration">
+    24.401s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        Clicking on bank manager login buttonBy.xpath: //button[contains(text(),'Bank Manager Login')]<br>
+                                Clicking on add customer btnBy.xpath: //button[contains(text(),'Add Customer')]<br>
+                                Enter first nameBy.xpath: //input[@placeholder='First Name']<br>
+                                Enter last nameBy.xpath: //input[@placeholder='Last Name']<br>
+                                Enter postcodeBy.xpath: //input[@placeholder='Post Code']<br>
+                                Clicking on add customer buttonBy.xpath: //button[@class='btn btn-default']<br>
+                                Clicking on open account btnBy.xpath: //button[contains(text(),'Open Account')]<br>
+                                Clicking on customer dropdown and selecting customerBy.id: userSelect<br>
+                                Clicking on currency dropdown and selecting currencyBy.xpath: //select[@id='currency']<br>
+                                Clicking on process buttonBy.xpath: //button[contains(text(),'Process')]<br>
+                                Clicking on home buttonBy.xpath: //button[@class='btn home']<br>
+                                Clicking on customer login buttonBy.xpath: //button[contains(text(),'Customer Login')]<br>
+                                Clicking on dropdown menu and selecting customer's nameBy.xpath: //select[@id='userSelect']<br>
+                                Clicking on login buttonBy.xpath: //button[@class='btn btn-default']<br>
+                                Verifying logout button is presentBy.xpath: //button[@class='btn logout']<br>
+                                Clicking on home buttonBy.xpath: //button[@class='btn home']<br>
+                                Clicking on customer login buttonBy.xpath: //button[contains(text(),'Customer Login')]<br>
+                                Clicking on dropdown menu and selecting customer's nameBy.xpath: //select[@id='userSelect']<br>
+                                Clicking on login buttonBy.xpath: //button[@class='btn btn-default']<br>
+                                Clicking on deposite buttonBy.xpath: //button[contains(text(),'Deposit')]<br>
+                                Entering amountBy.xpath: //input[@placeholder='amount']<br>
+                                Clicking on deposite buttonBy.xpath: //button[@class='btn btn-default']<br>
+                                Getting deposite successful messageBy.xpath: //span[@class='error ng-binding']<br>
+                                Clicking on withdrawl buttonBy.xpath: //button[contains(text(),'Withdrawl')]<br>
+                                Entering amountBy.xpath: //input[@placeholder='amount']<br>
+                                Clickig on withdraw btnBy.xpath: //button[@class='btn btn-default']<br>
+                                Get transaction successful messageBy.xpath: //span[@class='error ng-binding']<br>
+                                Click to see screenshot
+                                <a target = "_blank" href=C:\Users\Admin\IdeaProjects\XYZ-Bank-Page-Factory/test-output/html/customerShouldWithdrawMoneySuccessfullyMonApr20205102BST2020.jpg>Screenshot</a>
+                                <br>
+                                <br>
+                                <a target = "_blank" href=C:\Users\Admin\IdeaProjects\XYZ-Bank-Page-Factory/test-output/html/customerShouldWithdrawMoneySuccessfullyMonApr20205102BST2020.jpg><img src=C:\Users\Admin\IdeaProjects\XYZ-Bank-Page-Factory/test-output/html/customerShouldWithdrawMoneySuccessfullyMonApr20205102BST2020.jpg height=200 width=200></img></a>
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [Deposit Successful] but found [Transaction successful]</b></a><br />
+    <div class="stackTrace" id="exception-0">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:494)<br />
+              org.testng.Assert.assertEquals(Assert.java:123)<br />
+              org.testng.Assert.assertEquals(Assert.java:176)<br />
+              org.testng.Assert.assertEquals(Assert.java:186)<br />
+              com.bank.testsuit.BankTest.customerShouldWithdrawMoneySuccessfully(BankTest.java:154)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:714)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:767)<br />
+              org.testng.TestRunner.run(TestRunner.java:617)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:348)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:254)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1149)<br />
+              org.testng.TestNG.run(TestNG.java:1057)<br />
+              com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)<br />
+              com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)<br />
+                </div>
+      </td>
+</tr>
+      </table>
+
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header passed">Passed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">com.bank.testsuit.BankTest</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  bankManagerShouldAddCustomerSuccessfully
+      </td>
+  <td class="duration">
+    9.307s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        Clicking on bank manager login buttonBy.xpath: //button[contains(text(),'Bank Manager Login')]<br>
+                                Clicking on add customer btnBy.xpath: //button[contains(text(),'Add Customer')]<br>
+                                Enter first nameBy.xpath: //input[@placeholder='First Name']<br>
+                                Enter last nameBy.xpath: //input[@placeholder='Last Name']<br>
+                                Enter postcodeBy.xpath: //input[@placeholder='Post Code']<br>
+                                Clicking on add customer buttonBy.xpath: //button[@class='btn btn-default']<br>
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  bankManagerShouldOpenAccountSuccessfully
+      </td>
+  <td class="duration">
+    16.028s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        Clicking on bank manager login buttonBy.xpath: //button[contains(text(),'Bank Manager Login')]<br>
+                                Clicking on add customer btnBy.xpath: //button[contains(text(),'Add Customer')]<br>
+                                Enter first nameBy.xpath: //input[@placeholder='First Name']<br>
+                                Enter last nameBy.xpath: //input[@placeholder='Last Name']<br>
+                                Enter postcodeBy.xpath: //input[@placeholder='Post Code']<br>
+                                Clicking on add customer buttonBy.xpath: //button[@class='btn btn-default']<br>
+                                Clicking on open account btnBy.xpath: //button[contains(text(),'Open Account')]<br>
+                                Clicking on customer dropdown and selecting customerBy.id: userSelect<br>
+                                Clicking on currency dropdown and selecting currencyBy.xpath: //select[@id='currency']<br>
+                                Clicking on process buttonBy.xpath: //button[contains(text(),'Process')]<br>
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  customerShouldDepositMoneySuccessfully
+      </td>
+  <td class="duration">
+    25.121s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        Clicking on bank manager login buttonBy.xpath: //button[contains(text(),'Bank Manager Login')]<br>
+                                Clicking on add customer btnBy.xpath: //button[contains(text(),'Add Customer')]<br>
+                                Enter first nameBy.xpath: //input[@placeholder='First Name']<br>
+                                Enter last nameBy.xpath: //input[@placeholder='Last Name']<br>
+                                Enter postcodeBy.xpath: //input[@placeholder='Post Code']<br>
+                                Clicking on add customer buttonBy.xpath: //button[@class='btn btn-default']<br>
+                                Clicking on open account btnBy.xpath: //button[contains(text(),'Open Account')]<br>
+                                Clicking on customer dropdown and selecting customerBy.id: userSelect<br>
+                                Clicking on currency dropdown and selecting currencyBy.xpath: //select[@id='currency']<br>
+                                Clicking on process buttonBy.xpath: //button[contains(text(),'Process')]<br>
+                                Clicking on home buttonBy.xpath: //button[@class='btn home']<br>
+                                Clicking on customer login buttonBy.xpath: //button[contains(text(),'Customer Login')]<br>
+                                Clicking on dropdown menu and selecting customer's nameBy.xpath: //select[@id='userSelect']<br>
+                                Clicking on login buttonBy.xpath: //button[@class='btn btn-default']<br>
+                                Verifying logout button is presentBy.xpath: //button[@class='btn logout']<br>
+                                Clicking on home buttonBy.xpath: //button[@class='btn home']<br>
+                                Clicking on customer login buttonBy.xpath: //button[contains(text(),'Customer Login')]<br>
+                                Clicking on dropdown menu and selecting customer's nameBy.xpath: //select[@id='userSelect']<br>
+                                Clicking on login buttonBy.xpath: //button[@class='btn btn-default']<br>
+                                Clicking on deposite buttonBy.xpath: //button[contains(text(),'Deposit')]<br>
+                                Entering amountBy.xpath: //input[@placeholder='amount']<br>
+                                Clicking on deposite buttonBy.xpath: //button[@class='btn btn-default']<br>
+                                Getting deposite successful messageBy.xpath: //span[@class='error ng-binding']<br>
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  customerShouldLoginAndLogoutSuccessfully
+      </td>
+  <td class="duration">
+    20.597s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        Clicking on bank manager login buttonBy.xpath: //button[contains(text(),'Bank Manager Login')]<br>
+                                Clicking on add customer btnBy.xpath: //button[contains(text(),'Add Customer')]<br>
+                                Enter first nameBy.xpath: //input[@placeholder='First Name']<br>
+                                Enter last nameBy.xpath: //input[@placeholder='Last Name']<br>
+                                Enter postcodeBy.xpath: //input[@placeholder='Post Code']<br>
+                                Clicking on add customer buttonBy.xpath: //button[@class='btn btn-default']<br>
+                                Clicking on open account btnBy.xpath: //button[contains(text(),'Open Account')]<br>
+                                Clicking on customer dropdown and selecting customerBy.id: userSelect<br>
+                                Clicking on currency dropdown and selecting currencyBy.xpath: //select[@id='currency']<br>
+                                Clicking on process buttonBy.xpath: //button[contains(text(),'Process')]<br>
+                                Clicking on home buttonBy.xpath: //button[@class='btn home']<br>
+                                Clicking on customer login buttonBy.xpath: //button[contains(text(),'Customer Login')]<br>
+                                Clicking on dropdown menu and selecting customer's nameBy.xpath: //select[@id='userSelect']<br>
+                                Clicking on login buttonBy.xpath: //button[@class='btn btn-default']<br>
+                                Verifying logout button is presentBy.xpath: //button[@class='btn logout']<br>
+                  </div>
+    
+
+      </td>
+</tr>
+      </table>
+  
+</body>
+</html>

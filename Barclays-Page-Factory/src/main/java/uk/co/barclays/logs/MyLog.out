@@ -1,0 +1,48 @@
+2020-04-19 23:04:878 INFO       HomePage :27 - Mouse Hovering on Bank Menu +bankMenuItem.toString()
+2020-04-19 23:04:818 INFO       HomePage :33 - Mouse Hover to switching bank account to Barclays and clicking +switchingBankAccountToBarclays.toString()
+2020-04-19 23:04:208 INFO       HomePage :38 - Clicking on new to us button +newToUsButton.toString()
+2020-04-19 23:04:71 INFO       HomePage :43 - Clicking on branch finder button +branchFinderButton.toString()
+2020-04-19 23:04:325 INFO       HomePage :48 - Entering location +locationTextField.toString()
+2020-04-19 23:04:722 INFO       HomePage :53 - Clicking on search button +searchButton.toString()
+2020-04-21 20:04:527 INFO       HomePage :27 - Mouse Hovering on Bank Menu +bankMenuItem.toString()
+2020-04-21 20:04:358 INFO       HomePage :33 - Mouse Hover to switching bank account to Barclays and clicking +switchingBankAccountToBarclays.toString()
+2020-04-21 20:04:402 INFO       HomePage :38 - Clicking on new to us button +newToUsButton.toString()
+2020-04-21 20:04:93 INFO       HomePage :43 - Clicking on branch finder button +branchFinderButton.toString()
+2020-04-21 20:04:630 INFO       HomePage :48 - Entering location +locationTextField.toString()
+2020-04-21 20:04:818 INFO       HomePage :53 - Clicking on search button +searchButton.toString()
+2020-04-21 21:04:609 INFO       HomePage :42 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (b81f12819ecb3362caacf3ad05b775ef)] -> link text: Bank]
+2020-04-21 21:04:808 INFO       HomePage :47 - Mouse Hover to switching bank account to Barclays and clickingProxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-21 21:04:375 INFO       HomePage :52 - Clicking on new to us button[[ChromeDriver: chrome on WINDOWS (b81f12819ecb3362caacf3ad05b775ef)] -> xpath: //a[@class='btn btn-secondary']]
+2020-04-21 21:04:503 INFO       HomePage :57 - Clicking on branch finder buttonProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Branch finder')]'
+2020-04-21 21:04:402 INFO       HomePage :62 - Entering location[[ChromeDriver: chrome on WINDOWS (b81f12819ecb3362caacf3ad05b775ef)] -> xpath: //input[@id='location']]
+2020-04-21 21:04:606 INFO       HomePage :67 - Clicking on search button[[ChromeDriver: chrome on WINDOWS (b81f12819ecb3362caacf3ad05b775ef)] -> xpath: //input[@class='btn btn-primary']]
+2020-04-21 21:04:389 INFO       HomePage :42 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (47b2d9ce7e3fe50a87af7955cdf9150a)] -> link text: Bank]
+2020-04-21 21:04:318 INFO       HomePage :47 - Mouse Hover to switching bank account to Barclays and clickingProxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-21 21:04:598 INFO       HomePage :52 - Clicking on new to us button[[ChromeDriver: chrome on WINDOWS (47b2d9ce7e3fe50a87af7955cdf9150a)] -> xpath: //a[@class='btn btn-secondary']]
+2020-04-21 21:04:622 INFO       HomePage :57 - Clicking on branch finder buttonProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Branch finder')]'
+2020-04-21 21:04:86 INFO       HomePage :62 - Entering location[[ChromeDriver: chrome on WINDOWS (47b2d9ce7e3fe50a87af7955cdf9150a)] -> xpath: //input[@id='location']]
+2020-04-21 21:04:310 INFO       HomePage :67 - Clicking on search button[[ChromeDriver: chrome on WINDOWS (47b2d9ce7e3fe50a87af7955cdf9150a)] -> xpath: //input[@class='btn btn-primary']]
+2020-04-21 21:04:664 INFO       HomePage :39 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (08fdb909acb0d9e6d1dc46eae7c3cecc)] -> link text: Bank]
+2020-04-21 21:04:53 INFO       HomePage :44 - Mouse Hover to switching bank account to Barclays and clickingProxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-21 21:04:857 INFO       HomePage :49 - Clicking on new to us button[[ChromeDriver: chrome on WINDOWS (08fdb909acb0d9e6d1dc46eae7c3cecc)] -> xpath: //a[@class='btn btn-secondary']]
+2020-04-21 21:04:690 INFO       HomePage :54 - Clicking on branch finder buttonProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Branch finder')]'
+2020-04-21 21:04:207 INFO       HomePage :59 - Entering location Hatfield in location field[[ChromeDriver: chrome on WINDOWS (08fdb909acb0d9e6d1dc46eae7c3cecc)] -> xpath: //input[@id='location']]
+2020-04-21 21:04:570 INFO       HomePage :64 - Clicking on search button[[ChromeDriver: chrome on WINDOWS (08fdb909acb0d9e6d1dc46eae7c3cecc)] -> xpath: //input[@class='btn btn-primary']]
+2020-04-22 20:04:626 INFO       HomePage :39 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (eb6445e86d45a36b4a3aaa33eac5951f)] -> link text: Bank]
+2020-04-22 20:04:839 INFO       HomePage :44 - Mouse Hover to switching bank account to Barclays and clickingProxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-22 20:04:116 INFO       HomePage :49 - Clicking on new to us button[[ChromeDriver: chrome on WINDOWS (eb6445e86d45a36b4a3aaa33eac5951f)] -> xpath: //a[@class='btn btn-secondary']]
+2020-04-22 20:04:215 INFO       HomePage :54 - Clicking on branch finder buttonProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Branch finder')]'
+2020-04-22 20:04:422 INFO       HomePage :59 - Entering location Hatfield in location field[[ChromeDriver: chrome on WINDOWS (eb6445e86d45a36b4a3aaa33eac5951f)] -> xpath: //input[@id='location']]
+2020-04-22 20:04:575 INFO       HomePage :64 - Clicking on search button[[ChromeDriver: chrome on WINDOWS (eb6445e86d45a36b4a3aaa33eac5951f)] -> xpath: //input[@class='btn btn-primary']]
+2020-04-22 20:04:880 INFO       HomePage :39 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (5e5c1624b96199a355f0d407bcef1fa6)] -> link text: Bank]
+2020-04-22 20:04:739 INFO       HomePage :44 - Mouse Hover to switching bank account to Barclays and clickingProxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-22 20:04:38 INFO       HomePage :49 - Clicking on new to us button[[ChromeDriver: chrome on WINDOWS (5e5c1624b96199a355f0d407bcef1fa6)] -> xpath: //a[@class='btn btn-secondary']]
+2020-04-22 20:04:323 INFO       HomePage :54 - Clicking on branch finder buttonProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Branch finder')]'
+2020-04-22 20:04:511 INFO       HomePage :59 - Entering location Hatfield in location field[[ChromeDriver: chrome on WINDOWS (5e5c1624b96199a355f0d407bcef1fa6)] -> xpath: //input[@id='location']]
+2020-04-22 20:04:653 INFO       HomePage :64 - Clicking on search button[[ChromeDriver: chrome on WINDOWS (5e5c1624b96199a355f0d407bcef1fa6)] -> xpath: //input[@class='btn btn-primary']]
+2020-04-22 22:04:366 INFO       HomePage :39 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (3983dcce50b692defbea104f823c9dd9)] -> link text: Bank]
+2020-04-22 22:04:594 INFO       HomePage :44 - Mouse Hover to switching bank account to Barclays and clickingProxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-22 22:04:78 INFO       HomePage :49 - Clicking on new to us button[[ChromeDriver: chrome on WINDOWS (3983dcce50b692defbea104f823c9dd9)] -> xpath: //a[@class='btn btn-secondary']]
+2020-04-22 22:04:772 INFO       HomePage :54 - Clicking on branch finder buttonProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Branch finder')]'
+2020-04-22 22:04:132 INFO       HomePage :59 - Entering location Hatfield in location field[[ChromeDriver: chrome on WINDOWS (3983dcce50b692defbea104f823c9dd9)] -> xpath: //input[@id='location']]
+2020-04-22 22:04:458 INFO       HomePage :64 - Clicking on search button[[ChromeDriver: chrome on WINDOWS (3983dcce50b692defbea104f823c9dd9)] -> xpath: //input[@class='btn btn-primary']]

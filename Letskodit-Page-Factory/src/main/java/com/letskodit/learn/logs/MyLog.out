@@ -1,0 +1,46 @@
+2020-04-19 23:04:227 INFO       Homepage :21 - Clicking on practice linkBy.xpath: //a[@class='fedora-navbar-link navbar-link']
+2020-04-19 23:04:996 INFO       PracticePage :25 - Clicking on HDD radio buttonBy.id: hondaradio
+2020-04-19 23:04:70 INFO       PracticePage :31 - Selecting car and clickingBy.xpath: //select[@id='carselect']
+2020-04-19 23:04:283 INFO       PracticePage :36 - Select option PeachBy.xpath: //option[contains(text(),'Peach')]
+2020-04-19 23:04:393 INFO       PracticePage :41 - Selecting Honda checkboxBy.id: hondacheck
+2020-04-19 23:04:692 INFO       PracticePage :46 - Entering nameBy.id: name
+2020-04-19 23:04:941 INFO       PracticePage :51 - Clicking on Alert buttonBy.id: alertbtn
+2020-04-19 23:04:623 INFO       Homepage :21 - Clicking on practice linkBy.xpath: //a[@class='fedora-navbar-link navbar-link']
+2020-04-19 23:04:477 INFO       PracticePage :56 - Mouse hover on MouseHover buttonBy.id: mousehover
+2020-04-19 23:04:965 INFO       PracticePage :61 - Clicking on Select TopBy.xpath: //a[contains(text(),'Top')]
+2020-04-19 23:04:312 INFO       Homepage :31 - Clicking on sign up buttonBy.id: header-sign-up-btn
+2020-04-19 23:04:446 INFO       SignUpPage :25 - Entering Full NameBy.id: user_name
+2020-04-19 23:04:959 INFO       SignUpPage :30 - Entering Emial addressBy.id: user_email
+2020-04-19 23:04:184 INFO       SignUpPage :35 - Entering PasswordBy.id: user_password
+2020-04-19 23:04:418 INFO       SignUpPage :40 - Entering Confirm PasswordBy.id: user_password_confirmation
+2020-04-21 15:04:588 INFO       Homepage :32 - Clicking on practice link[[ChromeDriver: chrome on WINDOWS (5bcfd8b74226250b3ffcf0a9c72680f9)] -> xpath: //a[@class='fedora-navbar-link navbar-link']]
+2020-04-21 15:04:774 INFO       PracticePage :51 - Clicking on HDD radio button[[ChromeDriver: chrome on WINDOWS (5bcfd8b74226250b3ffcf0a9c72680f9)] -> id: hondaradio]
+2020-04-21 15:04:265 INFO       PracticePage :57 - Selecting car and clicking[[ChromeDriver: chrome on WINDOWS (5bcfd8b74226250b3ffcf0a9c72680f9)] -> xpath: //select[@id='carselect']]
+2020-04-21 15:04:506 INFO       PracticePage :62 - Select option Peach[[ChromeDriver: chrome on WINDOWS (5bcfd8b74226250b3ffcf0a9c72680f9)] -> xpath: //option[contains(text(),'Peach')]]
+2020-04-21 15:04:241 INFO       PracticePage :67 - Selecting Honda checkbox[[ChromeDriver: chrome on WINDOWS (5bcfd8b74226250b3ffcf0a9c72680f9)] -> id: hondacheck]
+2020-04-21 15:04:96 INFO       PracticePage :72 - Entering namePratikshain your name field[[ChromeDriver: chrome on WINDOWS (5bcfd8b74226250b3ffcf0a9c72680f9)] -> id: name]
+2020-04-21 15:04:238 INFO       Homepage :32 - Clicking on practice link[[ChromeDriver: chrome on WINDOWS (c6f1049a8904d1d5823ac204b9e00731)] -> xpath: //a[@class='fedora-navbar-link navbar-link']]
+2020-04-21 15:04:753 INFO       PracticePage :82 - Mouse hover on MouseHover button[[ChromeDriver: chrome on WINDOWS (c6f1049a8904d1d5823ac204b9e00731)] -> id: mousehover]
+2020-04-21 15:04:925 INFO       PracticePage :87 - Clicking on Select Top[[ChromeDriver: chrome on WINDOWS (c6f1049a8904d1d5823ac204b9e00731)] -> xpath: //a[contains(text(),'Top')]]
+2020-04-21 16:04:876 INFO       Homepage :42 - Clicking on sign up button[[ChromeDriver: chrome on WINDOWS (94db84869d080b2ec2a6b24cba512d86)] -> id: header-sign-up-btn]
+2020-04-21 16:04:84 INFO       SignUpPage :49 - Entering Full NameSnehalin full name field[[ChromeDriver: chrome on WINDOWS (94db84869d080b2ec2a6b24cba512d86)] -> id: user_name]
+2020-04-21 16:04:539 INFO       SignUpPage :54 - Entering Emial addressabcdefg@yahoo.co.ukin email address test field[[ChromeDriver: chrome on WINDOWS (94db84869d080b2ec2a6b24cba512d86)] -> id: user_email]
+2020-04-21 16:04:762 INFO       SignUpPage :59 - Entering Password2810omin password field[[ChromeDriver: chrome on WINDOWS (94db84869d080b2ec2a6b24cba512d86)] -> id: user_password]
+2020-04-21 16:04:952 INFO       SignUpPage :64 - Entering Confirm Password2810om in confirm password field[[ChromeDriver: chrome on WINDOWS (94db84869d080b2ec2a6b24cba512d86)] -> id: user_password_confirmation]
+2020-04-21 16:04:321 INFO       Homepage :32 - Clicking on practice link[[ChromeDriver: chrome on WINDOWS (880722b2edc3e2748d53073303672fa5)] -> xpath: //a[@class='fedora-navbar-link navbar-link']]
+2020-04-21 16:04:26 INFO       PracticePage :51 - Clicking on HDD radio button[[ChromeDriver: chrome on WINDOWS (880722b2edc3e2748d53073303672fa5)] -> id: hondaradio]
+2020-04-21 16:04:228 INFO       PracticePage :57 - Selecting car and clicking[[ChromeDriver: chrome on WINDOWS (880722b2edc3e2748d53073303672fa5)] -> xpath: //select[@id='carselect']]
+2020-04-21 16:04:48 INFO       PracticePage :62 - Select option Peach[[ChromeDriver: chrome on WINDOWS (880722b2edc3e2748d53073303672fa5)] -> xpath: //option[contains(text(),'Peach')]]
+2020-04-21 16:04:188 INFO       PracticePage :67 - Selecting Honda checkbox[[ChromeDriver: chrome on WINDOWS (880722b2edc3e2748d53073303672fa5)] -> id: hondacheck]
+2020-04-21 16:04:663 INFO       PracticePage :72 - Entering namePratikshain your name field[[ChromeDriver: chrome on WINDOWS (880722b2edc3e2748d53073303672fa5)] -> id: name]
+2020-04-21 16:04:291 INFO       Homepage :32 - Clicking on practice link[[ChromeDriver: chrome on WINDOWS (32274742492b84f852c6197203356d56)] -> xpath: //a[@class='fedora-navbar-link navbar-link']]
+2020-04-21 16:04:399 INFO       PracticePage :82 - Mouse hover on MouseHover button[[ChromeDriver: chrome on WINDOWS (32274742492b84f852c6197203356d56)] -> id: mousehover]
+2020-04-21 16:04:553 INFO       PracticePage :87 - Clicking on Select Top[[ChromeDriver: chrome on WINDOWS (32274742492b84f852c6197203356d56)] -> xpath: //a[contains(text(),'Top')]]
+2020-04-22 23:04:473 INFO       Homepage :32 - Clicking on practice link[[ChromeDriver: chrome on WINDOWS (cb72df8d7a9c13484f61d06bbd0e55a8)] -> xpath: //a[@class='fedora-navbar-link navbar-link']]
+2020-04-22 23:04:354 INFO       PracticePage :51 - Clicking on HDD radio button[[ChromeDriver: chrome on WINDOWS (cb72df8d7a9c13484f61d06bbd0e55a8)] -> id: hondaradio]
+2020-04-22 23:04:461 INFO       PracticePage :57 - Selecting car and clicking[[ChromeDriver: chrome on WINDOWS (cb72df8d7a9c13484f61d06bbd0e55a8)] -> xpath: //select[@id='carselect']]
+2020-04-22 23:04:631 INFO       PracticePage :62 - Select option Peach[[ChromeDriver: chrome on WINDOWS (cb72df8d7a9c13484f61d06bbd0e55a8)] -> xpath: //option[contains(text(),'Peach')]]
+2020-04-22 23:04:843 INFO       PracticePage :67 - Selecting Honda checkbox[[ChromeDriver: chrome on WINDOWS (cb72df8d7a9c13484f61d06bbd0e55a8)] -> id: hondacheck]
+2020-04-22 23:04:108 INFO       PracticePage :72 - Entering nameNikitain your name field[[ChromeDriver: chrome on WINDOWS (cb72df8d7a9c13484f61d06bbd0e55a8)] -> id: name]
+2020-04-22 23:04:311 INFO       Homepage :32 - Clicking on practice link[[ChromeDriver: chrome on WINDOWS (5591b1e2aaa2cefa86924d7ddf4a76d3)] -> xpath: //a[@class='fedora-navbar-link navbar-link']]
+2020-04-22 23:04:812 INFO       PracticePage :82 - Mouse hover on MouseHover button[[ChromeDriver: chrome on WINDOWS (5591b1e2aaa2cefa86924d7ddf4a76d3)] -> id: mousehover]
